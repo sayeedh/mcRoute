@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="89">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df root="." name="cppfiles">
+      <in>agent.cpp</in>
+      <in>agent.h</in>
+      <in>binsearch.cpp</in>
+      <in>binsearch.h</in>
+      <in>coopTable.cpp</in>
+      <in>coopTable.h</in>
+      <in>ctableEntry.cpp</in>
+      <in>ctableEntry.h</in>
+      <in>main.cpp</in>
+      <in>packet.cpp</in>
+      <in>packet.h</in>
+      <in>packetfactory.cpp</in>
+      <in>packetfactory.h</in>
+      <in>packethandler.cpp</in>
+      <in>packethandler.h</in>
+      <in>report.cpp</in>
+      <in>report.h</in>
+      <in>sim.cpp</in>
+      <in>sim.h</in>
+      <in>topo.cpp</in>
+      <in>topo.h</in>
+      <in>trafficgen.cpp</in>
+      <in>trafficgen.h</in>
+      <in>user.cpp</in>
+      <in>user.h</in>
+      <in>userVisitor.cpp</in>
+      <in>userVisitor.h</in>
+      <in>util.h</in>
+    </df>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceFolderFilter>^(nbproject)$</sourceFolderFilter>
+  <sourceRootList>
+    <Elem>.</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>false</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <codeAssistance>
+      </codeAssistance>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>.</buildCommandWorkingDir>
+          <buildCommand>${MAKE} -f Makefile</buildCommand>
+          <cleanCommand>${MAKE} -f Makefile clean</cleanCommand>
+          <executablePath>coopRoute</executablePath>
+        </makeTool>
+      </makefileType>
+      <item path="agent.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="agent.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="binsearch.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="binsearch.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="coopTable.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="coopTable.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ctableEntry.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ctableEntry.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="packet.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="packet.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="packetfactory.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="packetfactory.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="packethandler.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="packethandler.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="report.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="report.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="sim.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sim.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="topo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="topo.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="trafficgen.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="trafficgen.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="user.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="user.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="userVisitor.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="userVisitor.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="util.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

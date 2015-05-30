@@ -1,0 +1,6 @@
+gm = 2.0;
+tx = 0.1;  %Watt
+dzero = 10;
+for d = 50 : 1000
+    rdB = 10 * log10(tx) - 10*gm*log10(d/dzero);
+end
